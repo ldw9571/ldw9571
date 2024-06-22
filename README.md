@@ -7,7 +7,7 @@ Platforms & Languages
 
 
 
-![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=로고색상)
+![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 
 ![mysql](https://img.shields.io/badge/mysql-원하는색상코드.svg?&style=for-the-badge&logo=mysql&logoColor=로고색상)
 ![php](https://img.shields.io/badge/php-원하는색상코드.svg?&style=for-the-badge&logo=php&logoColor=로고색상)
