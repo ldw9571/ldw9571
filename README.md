@@ -11,6 +11,6 @@ Platforms & Languages
 
 ![codeigniter](https://img.shields.io/badge/codeigniter-원하는색상코드.svg?&style=for-the-badge&logo=codeigniter&logoColor=로고색상)
 
-
+![php](https://img.shields.io/badge/php-원하는색상코드.svg?&style=for-the-badge&logo=php&logoColor=로고색상)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
