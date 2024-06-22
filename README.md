@@ -31,3 +31,6 @@ Platforms & Languages
 
 
 ![DW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldw9571&show_icons=true&theme=radical)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myblog0419)](https://solved.ac/myblog0419/)
