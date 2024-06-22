@@ -4,8 +4,6 @@
 
 Platforms & Languages
 
-![#F7DF1E](https://img.shields.io/badge/#F7DF1E-원하는색상코드.svg?&style=for-the-badge&logo=#F7DF1E&logoColor=로고색상)
-
 
 
 
@@ -13,8 +11,5 @@ Platforms & Languages
 
 
 
-
-
-![javascript](https://img.shields.io/badge/javascript-#F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=#F7DF1E)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
