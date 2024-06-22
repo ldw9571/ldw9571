@@ -16,5 +16,9 @@ Platforms & Languages
 ![html5](https://img.shields.io/badge/html5-원하는색상코드.svg?&style=for-the-badge&logo=html5&logoColor=로고색상)
 ![apache](https://img.shields.io/badge/apache-원하는색상코드.svg?&style=for-the-badge&logo=apache&logoColor=로고색상)
 ![php](https://img.shields.io/badge/php-원하는색상코드.svg?&style=for-the-badge&logo=php&logoColor=로고색상)
+![spring](https://img.shields.io/badge/spring-원하는색상코드.svg?&style=for-the-badge&logo=spring&logoColor=로고색상)
+![springboot](https://img.shields.io/badge/springboot-원하는색상코드.svg?&style=for-the-badge&logo=springboot&logoColor=로고색상)
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![apachekafka](https://img.shields.io/badge/apachekafka-원하는색상코드.svg?&style=for-the-badge&logo=apachekafka&logoColor=로고색상)
+![redis](https://img.shields.io/badge/redis-원하는색상코드.svg?&style=for-the-badge&logo=redis&logoColor=로고색상)
