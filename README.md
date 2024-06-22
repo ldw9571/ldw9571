@@ -2,9 +2,11 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fldw9571&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![DW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldw9571&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myblog0419)](https://solved.ac/myblog0419/)
+
+
 Platforms & Languages
-
-
 
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=로고색상)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=로고색상)
@@ -30,7 +32,4 @@ Platforms & Languages
 
 
 
-![DW's GitHub stats](https://github-readme-stats.vercel.app/api?username=ldw9571&show_icons=true&theme=radical)
 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=myblog0419)](https://solved.ac/myblog0419/)
