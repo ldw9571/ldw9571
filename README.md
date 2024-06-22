@@ -9,6 +9,7 @@ Platforms & Languages
 
 ![javascript](https://img.shields.io/badge/javascript-원하는색상코드.svg?&style=for-the-badge&logo=javascript&logoColor=로고색상)
 
+![codeigniter](https://img.shields.io/badge/codeigniter-원하는색상코드.svg?&style=for-the-badge&logo=codeigniter&logoColor=로고색상)
 
 
 
